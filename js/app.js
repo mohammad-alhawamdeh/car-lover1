@@ -1,6 +1,6 @@
 'use strict';
 
-
+document.write ('<h1>' + 'good mornning ' + '</h1>');
 var answer = prompt('do you love car( If yes press y if no press n)');
 var Massege ;
 
